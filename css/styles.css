@@ -10216,16 +10216,16 @@ body {
 }
 .masthead h1 {
   font-family: 'Poppins', sans-serif;
-  font-size: 2rem;
-  line-height: 2rem;
-  font-weight: 900;
-  color: #573240;
+  font-size: 3rem;
+  line-height: 5rem;
+  font-weight: 800;
+  color: #545454;
 }
 .masthead h2 {
   max-width: 20rem;
   font-size: 1rem;
   font-weight: 700;
-  color: #A9D8D5;
+  color: #FF914D;
 }
 @media (min-width: 768px) {
   .masthead h1 {
@@ -10261,31 +10261,31 @@ body {
   margin-top: 1.5rem;}
 .producto  h5{
   font-weight: 500;
-  color: #F1B104; }
+  color: #FF914D; }
 
 
 .btn-agregar {
   padding: .5rem 4rem;
-  background: #C3CFE2;
+  background: #545454;
   color: #fff;
   font-size: 1rem;
   border-radius: 0!important;
   margin-top: 1rem;
 }
 .btn-agregar:hover {
-  background: #97ACCC;
+  background: #FF914D;
   color: #fff;
   transition: background 0.20s ease-in-out;
 }
 .btn-enviar {
-  background: #97ACCC;
+  background: #545454;
   color: #fff;
   padding: .5rem 4rem;
   font-size: 1.1rem;
   width: inherit;
 }
 .btn-enviar:hover {
-  background: #7493C3;
+  background: #FF914D;
   color: #fff;
   transition: background 0.20s ease-in-out;
 }

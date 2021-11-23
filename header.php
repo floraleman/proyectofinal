@@ -2,7 +2,7 @@
             <div class="container d-flex h-100 align-items-center">
               <div class="col-6 mx-auto">
                 <div class="text-left">
-                    <h1 class="my-0">Comprá online desde tu casa.</h1>
+                    <h1 class="my-0">¿Qué tenés ganas de tomar hoy?</h1>
                     <h2 class="mt-3 mb-5">¡Nosotros te lo llevamos!</h2>
                 </div>
               </div>
