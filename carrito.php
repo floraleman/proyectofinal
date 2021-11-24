@@ -39,14 +39,14 @@
                           <td class="align-middle text-center">
                             <input type="number" class="form-control cantidad" value="1" placeholder="1">
                           </td>
-                          <td class="align-middle text-center"><?php echo $item['precio'];?></td>
-                          <td class="align-middle text-center"><?php echo $item['precio'];?></td>
+                          <td class="align-middle text-center"><span class="precio"><?php echo $item['precio'];?></td>
+                          <td class="align-middle text-center"><span class="subtotal"><?php echo $item['precio'];?></td>
                         </tr>
                         <?php } ?>
 
                       </tbody>
                     </table>
-                  
+                  <h5>Total compra: $<span id="total"></span></h5>
 
                   </div>
                 </div>
